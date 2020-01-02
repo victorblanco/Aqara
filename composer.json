@@ -1,5 +1,5 @@
 {
-  "name": "ggottwald/aqara",
+  "name": "victorblanco/aqara",
   "description": "Receive Xiaomi Gateway events",
   "type": "library",
   "require": {
